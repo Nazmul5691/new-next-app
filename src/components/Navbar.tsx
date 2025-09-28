@@ -10,6 +10,7 @@ export default function Navbar() {
             <div className="fle space-x-6">
                 <Link href="/about" className="hover:text-gray-300">About</Link>
                 <Link href="/contact" className="hover:text-gray-300">Contact</Link>
+                <Link href="/dashboard" className="hover:text-gray-300">Dashboard</Link>
                 <Link href="/login" className="hover:text-gray-300">Login</Link>
             </div>
         </div >
