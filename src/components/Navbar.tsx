@@ -7,7 +7,10 @@ export default function Navbar() {
                 <Link href="/">NextJS</Link>
             </div>
 
-            <div className="fle space-x-6">
+            <div className="flex space-x-6">
+                <div>
+                    <input className="bg-white text-black" type="text" />
+                </div>
                 <Link href="/about" className="hover:text-gray-300">About</Link>
                 <Link href="/contact" className="hover:text-gray-300">Contact</Link>
                 <Link href="/dashboard" className="hover:text-gray-300">Dashboard</Link>
