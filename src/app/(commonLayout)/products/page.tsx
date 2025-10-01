@@ -4,10 +4,11 @@ import { IProduct } from "../../../../type";
 export default async function ProductPage() {
     const res = await fetch('http://localhost:5000/products', {
         // cache: "force-cache"
+        cache: "no-store"
 
-        next: {
-            revalidate: 30,
-        }
+        // next: {
+        //     revalidate: 30,
+        // }
 
         //  next: {
         //     tags: ["products"]
