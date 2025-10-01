@@ -1,5 +1,6 @@
 import Image from "next/image";
-import nextImg from '../../../assets/nextjs.jpg'
+// import nextImg from '../../../assets/nextjs.jpg'
+import nextImg from '@/assets/nextjs.jpg'
 
 
 
