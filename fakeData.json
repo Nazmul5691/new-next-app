@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Wireless Headphones",
+      "category": "Electronics",
+      "brand": "SoundMax",
+      "price": 59.99,
+      "image": "https://i.ibb.co.com/B5hRRHY0/Capture4.jpg" 
+    },
+    {
+      "id": 2,
+      "product_name": "Running Shoes",
+      "category": "Footwear",
+      "brand": "StridePro",
+      "price": 89.5,
+      "image": "https://i.ibb.co.com/TxSV3x0q/222.jpg"
+    },
+    {
+      "id": 3,
+      "product_name": "Smart Watch",
+      "category": "Wearables",
+      "brand": "TimeTech",
+      "price": 129.0,
+      "image": "https://i.ibb.co.com/nnvPShx/Nature-s-Best-Cosmetics.jpg"
+    },
+    {
+      "id": 4,
+      "product_name": "Ceramic Coffee Mug",
+      "category": "Kitchen",
+      "brand": "MugLife",
+      "price": 12.75,
+      "image": "https://i.ibb.co.com/Df0Z6CPV/Rectangle-15.png"
+    },
+    {
+      "id": 5,
+      "product_name": "Office Chair",
+      "category": "Furniture",
+      "brand": "ComfySeat",
+      "price": 199.99,
+      "image": "https://i.ibb.co.com/HwBNRKs/Bookly.png"
+    },
+    {
+      "id": 6,
+      "product_name": "LED Desk Lamp",
+      "category": "Home Decor",
+      "brand": "BrightLite",
+      "price": 29.5,
+      "image": "https://images.unsplash.com/photo-1574180045827-681f8a1a9622"
+    }
+  ]
+}

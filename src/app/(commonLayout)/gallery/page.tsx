@@ -7,9 +7,9 @@ import nextImg from '@/assets/nextjs.jpg'
 export default function GalleryPage() {
     return (
         <div className="bg-gray-200">
-            <div>
+            {/* <div>
                 <img src="https://i.ibb.co.com/PZVB119F/nextjs.jpg" alt="next img" width={500} height={500} className="mx-auto" />
-            </div>
+            </div> */}
             <div>
                 <Image src="https://i.ibb.co.com/PZVB119F/nextjs.jpg" alt="next img" width={500} height={500} className="mx-auto" />
             </div>
