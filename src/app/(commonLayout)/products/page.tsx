@@ -20,7 +20,7 @@ export default async function ProductPage() {
 
     return (
         <div>
-            <h1>This is ProductPageee</h1>
+            <h1>This is ProductPage</h1>
             <div className="grid grid-cols-3 gap-4 w-[90%] mx-auto">
                 {
                     products.map((product: IProduct) => (
